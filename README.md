@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shuraimissah1
-- 👀 I’m interested in becoming a full stack web developer 
-- 🌱 I’m currently learning cousera 
-- 💞️ I’m looking to collaborate on anything regarding html, CSS, and JavaScript 
+- 👀 I’m interested in becoming a Machine Learning Engineer 
+- 🌱 I’m currently learning Java Data Structures and Advance React. 
 - 📫 How to reach me ...shuraimissah07@gmail.com
 
 <!---
