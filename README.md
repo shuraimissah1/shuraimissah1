@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shuraimissah1
 - 👀 I’m interested in becoming a Machine Learning Engineer 
 - 🌱 I’m currently learning Java Data Structures and Advance React. 
-- 📫 How to reach me ...shuraimissah07@gmail.com
+- 📫 How to reach me ...missah@stetson.edu
 
 <!---
 shuraimissah1/shuraimissah1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
